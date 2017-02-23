@@ -30,7 +30,7 @@
     "cheerio": "0.17.0"
   },
   "devDependencies": {
-    "tap": "^0.4.9",
+    "tap": "^10.2.1",
     "glob": "^4.0.0"
   }
 }
